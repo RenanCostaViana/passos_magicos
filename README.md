@@ -4,7 +4,7 @@ Análise dos indicadores educacionais da Associação Passos Mágicos (base PEDE
 
 Projeto desenvolvido individualmente como Datathon da Fase 5 da Pós-Graduação em Data Analytics (FIAP).
 
-🔗 **App:** [ADICIONAR LINK DO STREAMLIT APÓS O DEPLOY]
+🔗 **App:** [Passos Mágicos](https://paappsmagicos-i7uebmh3gfjwuprwya99x9.streamlit.app/)
 
 > **Convenção:** a defasagem é a diferença entre a fase do aluno no programa e a fase ideal para a sua idade escolar. **Valores negativos indicam aluno atrasado.**
 
