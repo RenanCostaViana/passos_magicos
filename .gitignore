@@ -1,0 +1,15 @@
+# Microdados (baixados pelo notebook direto do IBGE)
+*.csv
+*.zip
+
+# Jars baixados em tempo de execução
+*.jar
+
+# Credenciais e variáveis de ambiente
+.env
+*credentials*
+.aws/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
